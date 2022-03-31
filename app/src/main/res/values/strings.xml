@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Colegio Salta Montes</string>
+    <string name="welcome">Bienvenidos</string>
+    <string name="button_register">Registrar</string>
+    <string name="button_help">Ayuda</string>
+    <string name="button_statistics">Estadisticas</string>
+
+    <string name="title_register">Formulario Estudiantes</string>
+    <string name="document">Documento</string>
+    <string name="full_name">Nombre Completo</string>
+    <string name="age">Edad</string>
+    <string name="phone_number">Telefono</string>
+    <string name="Direction">Direccion</string>
+    <string name="matter1">Materia 1</string>
+    <string name="matter2">Materia 2</string>
+    <string name="matter3">Materia 3</string>
+    <string name="matter4">Materia 4</string>
+    <string name="matter5">Materia 5</string>
+    <string name="nota1">Nota 1</string>
+    <string name="nota2">Nota 2</string>
+    <string name="nota3">Nota 3</string>
+    <string name="nota4">Nota 4</string>
+    <string name="nota5">Nota 5</string>
+    <string name="detalle_estudiante">Detalles estudiante</string>
+    <string name="aprobo">Aprobo (3.5)</string>
+    <string name="recuperable">Recuperable</string>
+    <string name="back">Volver</string>
+    <string name="help">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
+        unknown printer took a galley of type and scrambled it to make a type specimen book. It
+        has survived not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s with the release of
+        Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
+        software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+
+
+
+
+</resources>
